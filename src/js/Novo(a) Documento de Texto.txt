@@ -1,0 +1,32 @@
+códigos básico linux
+
+cd - entrar nas pastas
+
+cd .. - para voltar as páginas
+
+ls - para ver as pastas e conteudos dentro das pastas
+
+mkdir - serve para criar diretorois/pastas
+
+rm -r pasta - remover diretorios/pastas
+
+dir - uso base visualizar pastas sem cores
+
+ps -lista os processos do terminal em uso
+
+./ - para iniciar progamas ./nome_do_programa
+
+sudo -
+chmod +x programa - permitir root aos progrmas
+
+chmod -x programa - remover o root
+
+
+ifconfig - lista as placas e mostra o ip
+
+iwconfig - mostra as informações mais avançadas
+
+route - vai mostrar informações do roteador
+
+zip nome - zippar arquivos
+unzip nome - dezippar os arquivos zipados
